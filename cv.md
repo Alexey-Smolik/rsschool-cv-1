@@ -21,3 +21,13 @@ My contact data:
 
 
 My goal is to be a good coder! I really like what I'm doing and this is the most important thing. I like learning something new or reaching for the answers to different questions.
+
+
+## Skills and experience
+
+
+I have some experience with **HTML5**, **CSS3**, **JavaScript**.
+
+
+
+I also have some experince in freelance, check my portfoliio [here](http://artyuhvladislav.github.io).
