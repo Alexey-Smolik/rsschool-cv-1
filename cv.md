@@ -164,3 +164,12 @@ Cool cards for your portfolio using HTML5 and CSS3.
 ```
 
 
+
+
+
+## Education
+
+
+I've been learning front end for 6 month by my selv using free courses, watching youtube coding meets.
+
+
