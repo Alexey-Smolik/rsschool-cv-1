@@ -15,3 +15,9 @@ Hello my name is **Vladislav Artyuh** and I'm a junior front end developer.
 
 My contact data: 
 *phone - +375259000531, email - workto22@gmail.com*.
+
+
+## My goals
+
+
+My goal is to be a good coder! I really like what I'm doing and this is the most important thing. I like learning something new or reaching for the answers to different questions.
