@@ -3,7 +3,7 @@
 
 
 
-## Itroduction
+## Introduction
 
 Hello my name is **Vladislav Artyuh** and I'm a junior front end developer.
 
